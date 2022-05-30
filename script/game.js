@@ -101,7 +101,6 @@ function teclado(letra){
         }     
 }
 
-//INPUT CELULAR
 
 
 

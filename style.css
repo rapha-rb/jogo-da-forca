@@ -88,6 +88,7 @@ section {
     position: absolute;
     bottom: 5%;
     left: 32%;
+    gap: 50px;
 }
 
 /*ADICIONAR PALAVRA*/
