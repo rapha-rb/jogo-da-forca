@@ -130,7 +130,21 @@ section {
     margin-top: 20px;
 }
 
+/*CELULAR*/
+.texto-celular {
+    display: none;
+}
+
 @media screen and (max-width: 480px) {
+    .texto-celular {
+        display: block;
+        width: 100px;
+        height: 30px;
+        position: absolute;
+        left: 35%;
+        bottom: -15%;
+
+    }
 
     .button {
         width: 100%;
@@ -185,4 +199,6 @@ section {
         margin-top: 20px;
         left: 15%;
     }
+
+
 }
